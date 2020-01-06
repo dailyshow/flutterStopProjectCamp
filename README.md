@@ -14,5 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.dev/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
-# flutter로 진행 하였다가 중단 된 프로젝트. 더이상 진행하지 않게 되었음.
-# flutter로 만들다가 중단 된  프로젝트\n 더이상 진행되지 않음
+### flutter로 진행 하였다가 중단 된 프로젝트. 더이상 진행하지 않게 되었음.
